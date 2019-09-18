@@ -5,6 +5,9 @@
 
 > Homework for Siraj Raval ML Course - Unit 4
 
+
+Inspired by: https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning/blob/master/code/Detection%20of%20Pneumonia%20from%20Chest%20X-Ray%20Images%201.0.0.3.ipynb
+
 ------------------
 
 Based on IEEE-CIS Fraud Detection Kaggle dataset https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
